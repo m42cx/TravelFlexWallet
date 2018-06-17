@@ -48,7 +48,7 @@
     "bitcore-mnemonic": "~1.0.0",
     "browser-request": "^0.3.3",
     "chokidar": "^1.7.0",
-    "core": "git+https://github.com/dagcoin/core.git",
+    "core": "git+https://m42cx/TravelFlexCore.git",
     "grunt-contrib-sass": "^1.0.0",
     "grunt-sass": "^2.1.0",
     "jszip": "^3.1.3",
